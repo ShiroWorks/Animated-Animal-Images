@@ -9,3 +9,5 @@ A design where images get animated when a menu item is clicked.
 - [imagesLoaded](https://imagesloaded.desandro.com/)
 - [Charming](https://github.com/yuanqing/charming)
 - Images from [Pexels.com](https://www.pexels.com/)
+
+[Live version](https://animated-animal-images.netlify.com/)
